@@ -1,16 +1,20 @@
-## Hi there 👋
+## Hi, I'm Nathan!👋
 
-<!--
-**Nate22152/Nate22152** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm current student at UT Dallas with a passion towards Software Engineer & Project Management. I enjoy building modern technologies that would simplify life, while pursuing the passion of learn on the way. 
 
-Here are some ideas to get you started:
+Languages:
+Java
+C
+TypeScript
+HTMLS
+CSS
+SQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Frameworks & Tools:
+React
+Next.js
+
+Connect with me:
+Linkedin
+Gmail
+
